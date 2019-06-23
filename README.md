@@ -6,7 +6,7 @@
 ![License CC BY-NC](https://img.shields.io/badge/license-CC_BY--NC-green.svg?style=plastic)
 
 ## Description
-Recently, companies need to use face detection and face alignment. When I accept this work. Almost all the repos on the github which related face detection were downloaded into my disk. Through my learning about this, finally I decided us mtcnn since it can get best result for me. And it is widely accepted in industriy.  
+Recently, companies need to use face detection and face alignment. When I accept this job. Almost all the repos on the github which related face detection were downloaded into my disk. Through my learning about this, finally I decided use mtcnn since it can get best result for me. And it is widely accepted in industriy.
 But, all of the high star repos on github have some common diseases:
 1. No one-click script.
 2. The loss function is wrong. The pnet and rnet also need landmark loss. Not just onet.
